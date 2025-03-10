@@ -1,3 +1,4 @@
+![Mi Thermal](./img/banner_mithermal.png)
 # mi-thermal-py-crypt
 A python version of mi-thermal-crypt
 
