@@ -44,5 +44,4 @@ python3 thermal-crypt.py -i thermal-normal.conf -o decrypted.conf
 
 <h1 align="center">Original Credit(C Version)</h1>
 
-- [test](https://google.com)
 - [mi-thermal-crypt](https://github.com/adithya2306/mi-thermal-crypt)
