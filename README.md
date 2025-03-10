@@ -42,7 +42,7 @@ Decrypt
 python3 thermal-crypt.py -i thermal-normal.conf -o decrypted.conf
 ```
 
-<h1 align="center">Original Credit
-\n(C Version)</h1>
+<h1 align="center">Original Credit</h1>
+<h1 align="center">(C Version)</h1>
 
 - [mi-thermal-crypt](https://github.com/adithya2306/mi-thermal-crypt)
